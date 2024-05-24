@@ -1,0 +1,42 @@
+{
+  "name": "@hossein-i/rc-link-preview",
+  "version": "0.1.0",
+  "description": "Link Preview Component For React & Next",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0",
+    "commit": "cz"
+  },
+  "homepage": "https://github.com/Hossein-i/rc-link-preview#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hossein-i/rc-link-preview.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hossein-i/rc-link-preview/issues",
+    "email": "sayhi@hossein-i.ir"
+  },
+  "publishConfig": {
+    "@hossein-i:registry": "https://npm.pkg.github.com"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-emoji-conventional"
+    }
+  },
+  "keywords": [
+    "link",
+    "preview",
+    "component",
+    "react",
+    "next"
+  ],
+  "author": "Hossein-i <sayhi@hossein-i.ir> (https://hossein-i.ir)",
+  "license": "ISC",
+  "devDependencies": {
+    "cz-emoji-conventional": "^1.0.2"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
