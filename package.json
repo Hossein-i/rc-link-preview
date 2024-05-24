@@ -1,5 +1,5 @@
 {
-  "name": "@hossein-i/rc-link-preview",
+  "name": "rc-link-preview",
   "version": "0.1.0",
   "description": "Link Preview Component For React & Next",
   "main": "index.js",
@@ -10,14 +10,11 @@
   "homepage": "https://github.com/Hossein-i/rc-link-preview#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hossein-i/rc-link-preview.git"
+    "url": "git+https://github.com/Hossein-i/rc-link-preview.git"
   },
   "bugs": {
     "url": "https://github.com/Hossein-i/rc-link-preview/issues",
     "email": "sayhi@hossein-i.ir"
-  },
-  "publishConfig": {
-    "@hossein-i:registry": "https://npm.pkg.github.com"
   },
   "config": {
     "commitizen": {
