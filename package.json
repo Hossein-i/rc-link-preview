@@ -2,7 +2,7 @@
   "name": "rc-link-preview",
   "version": "0.1.0",
   "description": "Link Preview Component For React & Next",
-  "main": "index.js",
+  "main": "./src/index.ts",
   "scripts": {
     "test": "exit 0",
     "commit": "cz"
@@ -33,9 +33,8 @@
   "devDependencies": {
     "@types/react": "^18.3.3",
     "cz-emoji-conventional": "^1.0.2",
-    "react": "^18.3.1"
-  },
-  "dependencies": {
+    "react": "^18.3.1",
     "typescript": "^5.4.5"
-  }
+  },
+  "dependencies": {}
 }
